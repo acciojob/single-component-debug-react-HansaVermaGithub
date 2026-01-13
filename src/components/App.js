@@ -6,4 +6,4 @@ function App(){
     </div>
   )
 }
-export defaut App.js
+export default App.js
